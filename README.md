@@ -4,7 +4,7 @@
 
 <!-- HEADER -->
 <p align="center">
-  <img src="Images/Email_Spam_Detection_Cover.png"/>
+  <img src="C:\Users\DELL\Downloads\Email_Spam_Detection_Cover.png"/>
 </p>
 
 <!-- PROJECT DESCRIPTION -->
